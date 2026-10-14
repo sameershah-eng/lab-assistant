@@ -1,0 +1,6 @@
+{
+  "name": "Kindred",
+  "description": "A calm, thoughtful AI companionship platform crafted for genuine reflection, daily check-ins, and trusted conversation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
